@@ -1,0 +1,22 @@
+/Users/Duncan/Projects/Personal Practise/Trivia_Game/Trivia_Game/bin/Debug/netcoreapp3.1/Trivia_Game
+/Users/Duncan/Projects/Personal Practise/Trivia_Game/Trivia_Game/bin/Debug/netcoreapp3.1/Trivia_Game.deps.json
+/Users/Duncan/Projects/Personal Practise/Trivia_Game/Trivia_Game/bin/Debug/netcoreapp3.1/Trivia_Game.runtimeconfig.json
+/Users/Duncan/Projects/Personal Practise/Trivia_Game/Trivia_Game/bin/Debug/netcoreapp3.1/Trivia_Game.runtimeconfig.dev.json
+/Users/Duncan/Projects/Personal Practise/Trivia_Game/Trivia_Game/bin/Debug/netcoreapp3.1/Trivia_Game.dll
+/Users/Duncan/Projects/Personal Practise/Trivia_Game/Trivia_Game/bin/Debug/netcoreapp3.1/Trivia_Game.pdb
+/Users/Duncan/Projects/Personal Practise/Trivia_Game/Trivia_Game/obj/Debug/netcoreapp3.1/Trivia_Game.csprojAssemblyReference.cache
+/Users/Duncan/Projects/Personal Practise/Trivia_Game/Trivia_Game/obj/Debug/netcoreapp3.1/Trivia_Game.AssemblyInfoInputs.cache
+/Users/Duncan/Projects/Personal Practise/Trivia_Game/Trivia_Game/obj/Debug/netcoreapp3.1/Trivia_Game.AssemblyInfo.cs
+/Users/Duncan/Projects/Personal Practise/Trivia_Game/Trivia_Game/obj/Debug/netcoreapp3.1/Trivia_Game.dll
+/Users/Duncan/Projects/Personal Practise/Trivia_Game/Trivia_Game/obj/Debug/netcoreapp3.1/Trivia_Game.pdb
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Trivia_Game\Trivia_Game\bin\Debug\netcoreapp3.1\Trivia_Game.exe
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Trivia_Game\Trivia_Game\bin\Debug\netcoreapp3.1\Trivia_Game.deps.json
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Trivia_Game\Trivia_Game\bin\Debug\netcoreapp3.1\Trivia_Game.runtimeconfig.json
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Trivia_Game\Trivia_Game\bin\Debug\netcoreapp3.1\Trivia_Game.runtimeconfig.dev.json
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Trivia_Game\Trivia_Game\bin\Debug\netcoreapp3.1\Trivia_Game.dll
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Trivia_Game\Trivia_Game\bin\Debug\netcoreapp3.1\Trivia_Game.pdb
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Trivia_Game\Trivia_Game\obj\Debug\netcoreapp3.1\Trivia_Game.csprojAssemblyReference.cache
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Trivia_Game\Trivia_Game\obj\Debug\netcoreapp3.1\Trivia_Game.AssemblyInfoInputs.cache
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Trivia_Game\Trivia_Game\obj\Debug\netcoreapp3.1\Trivia_Game.AssemblyInfo.cs
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Trivia_Game\Trivia_Game\obj\Debug\netcoreapp3.1\Trivia_Game.dll
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Trivia_Game\Trivia_Game\obj\Debug\netcoreapp3.1\Trivia_Game.pdb
