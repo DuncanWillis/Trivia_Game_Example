@@ -20,3 +20,16 @@ C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Trivia_G
 C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Trivia_Game\Trivia_Game\obj\Debug\netcoreapp3.1\Trivia_Game.AssemblyInfo.cs
 C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Trivia_Game\Trivia_Game\obj\Debug\netcoreapp3.1\Trivia_Game.dll
 C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Personal Practise\Trivia_Game\Trivia_Game\obj\Debug\netcoreapp3.1\Trivia_Game.pdb
+C:\code\Projects\Trivia_Game_Example\Trivia_Game\Trivia_Game\bin\Debug\netcoreapp3.1\Trivia_Game.exe
+C:\code\Projects\Trivia_Game_Example\Trivia_Game\Trivia_Game\bin\Debug\netcoreapp3.1\Trivia_Game.deps.json
+C:\code\Projects\Trivia_Game_Example\Trivia_Game\Trivia_Game\bin\Debug\netcoreapp3.1\Trivia_Game.runtimeconfig.json
+C:\code\Projects\Trivia_Game_Example\Trivia_Game\Trivia_Game\bin\Debug\netcoreapp3.1\Trivia_Game.runtimeconfig.dev.json
+C:\code\Projects\Trivia_Game_Example\Trivia_Game\Trivia_Game\bin\Debug\netcoreapp3.1\Trivia_Game.dll
+C:\code\Projects\Trivia_Game_Example\Trivia_Game\Trivia_Game\bin\Debug\netcoreapp3.1\Trivia_Game.pdb
+C:\code\Projects\Trivia_Game_Example\Trivia_Game\Trivia_Game\obj\Debug\netcoreapp3.1\Trivia_Game.csprojAssemblyReference.cache
+C:\code\Projects\Trivia_Game_Example\Trivia_Game\Trivia_Game\obj\Debug\netcoreapp3.1\Trivia_Game.AssemblyInfoInputs.cache
+C:\code\Projects\Trivia_Game_Example\Trivia_Game\Trivia_Game\obj\Debug\netcoreapp3.1\Trivia_Game.AssemblyInfo.cs
+C:\code\Projects\Trivia_Game_Example\Trivia_Game\Trivia_Game\obj\Debug\netcoreapp3.1\Trivia_Game.csproj.CoreCompileInputs.cache
+C:\code\Projects\Trivia_Game_Example\Trivia_Game\Trivia_Game\obj\Debug\netcoreapp3.1\Trivia_Game.dll
+C:\code\Projects\Trivia_Game_Example\Trivia_Game\Trivia_Game\obj\Debug\netcoreapp3.1\Trivia_Game.pdb
+C:\code\Projects\Trivia_Game_Example\Trivia_Game\Trivia_Game\obj\Debug\netcoreapp3.1\Trivia_Game.genruntimeconfig.cache

@@ -8,27 +8,30 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Duncan\\.nuget\\packages\\": {}
+    "C:\\Users\\Tim\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duncan\\Desktop\\Mac Visual Studio C#\\Projects\\Personal Practise\\Trivia_Game\\Trivia_Game\\Trivia_Game.csproj",
+      "projectUniqueName": "C:\\code\\Projects\\Trivia_Game_Example\\Trivia_Game\\Trivia_Game\\Trivia_Game.csproj",
       "projectName": "Trivia_Game",
-      "projectPath": "C:\\Users\\Duncan\\Desktop\\Mac Visual Studio C#\\Projects\\Personal Practise\\Trivia_Game\\Trivia_Game\\Trivia_Game.csproj",
-      "packagesPath": "C:\\Users\\Duncan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duncan\\Desktop\\Mac Visual Studio C#\\Projects\\Personal Practise\\Trivia_Game\\Trivia_Game\\obj\\",
+      "projectPath": "C:\\code\\Projects\\Trivia_Game_Example\\Trivia_Game\\Trivia_Game\\Trivia_Game.csproj",
+      "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
+      "outputPath": "C:\\code\\Projects\\Trivia_Game_Example\\Trivia_Game\\Trivia_Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Duncan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\code\\nuget_packages": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/Tevent/index.json": {},
+        "https://pkgs.dev.azure.com/Aptacode/Pdf-Utils/_packaging/PdfUtils/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/tevent/Development/_packaging/Development/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -58,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
       }
     }
   }
